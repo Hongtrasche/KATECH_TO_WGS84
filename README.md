@@ -1,6 +1,6 @@
 # KATECH_TO_WGS84
 
-KATECH 좌표계를 WGS84로 변환하는 스크립트  
+KATECH 좌표계를 WGS84로 변환하는 스크립트 (작성중)
 
 Script to convert KATECH coordinate system to WGS84
 
